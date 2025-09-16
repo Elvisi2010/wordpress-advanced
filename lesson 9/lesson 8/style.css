@@ -27,3 +27,19 @@ h1 {
   margin: 2rem;
   font-weight: 700;
 }
+
+.box-rounded {
+  background-color: #109bdb;
+  color: black;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.box-rounded-image{
+  border: 20px;
+  background-image: url(//www.google.com/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fthe-science-of-happier-dogs-5-tips-to-help-your-canine-friends-live-their-best-life-236952&psig=AOvVaw2bKwoD4H1SNDmfdDIP4Bko&ust=1758133328385000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCk8JXz3Y8DFQAAAAAdAAAAABAE);
+  padding: 20px;
+  
+
+  
+}
